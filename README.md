@@ -328,7 +328,8 @@ Electronics & Telecommunication Engineer
 - C++
 - PCB Design
 
-📧 Email: your-email@example.com
+📧 Email: himanshupawar259@gmail.com
+
 
 💼 LinkedIn:
 https://www.linkedin.com/in/himanshu-pawar-a74b732a9/
